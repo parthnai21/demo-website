@@ -127,7 +127,43 @@ li a{
         top: 35%;
      }
   }
+.btn:hover{
+    background-color: transparent;
+}
+.txt1{
+    line-height: 30px;
+}
+.txt2{
+    line-height: 30px;
+}
+.txt3{
+    line-height: 30px;
+}
+.txt4{
+    line-height: 30px;
+}
 
-.services{
-    margin-top: 80px;
+.label{
+
+}
+ h2 a{
+ color: white;
+background-color: #82ae46;
+ text-decoration: none;
+ font-size: 20px;
+ border: 2px ;
+ padding: 5px;
+
+}
+.text h2{
+    color: #82ae46;
+}
+.text p a{
+    background-color: #82ae46;
+}
+.heading1{
+    color: #82ae46;
+}
+.heading2{
+    font-weight: bold;
 }
